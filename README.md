@@ -18,6 +18,7 @@ Enjoy the fun and share it with your friends!
 
 Demo
 You can also check out a live demo of the website here.
+https://itsforyo-u.netlify.app/
 
 Screenshots
 
